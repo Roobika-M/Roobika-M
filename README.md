@@ -32,9 +32,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/4c/c2/3a/4cc23ab9f1fcc0efd86ed0c8c5f84b4c.gif"  />
-</div>
 
 ###
 
