@@ -1,4 +1,5 @@
-<h2>Heyyy, I'm Roobika</h2>
+<h2>Heyyy,</h2>
+<p>I'm Roobika, a software developer who loves bringing ideas to life through code.</p>
 ###
 
 <div align="left">
